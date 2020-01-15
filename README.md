@@ -1,4 +1,4 @@
-    BASIC INFORMATION ABOUT WEB DEVELOPMENT 
+Learning....
 
 SOFTWARE ARCHITECTURE
 
@@ -17,12 +17,9 @@ A Monolithic architecture is the traditional unified model for the design of a s
 					
 Service-oriented architecture (SOA) is a style of software design where services are provided to the other components by application components, through a communication protocol over a network. The basic principles of service-oriented architecture are independent of vendors, products and technologies.	
   
-Service-Based Architecture (SBA), whereby the control plane functionality and common data repositories of a 5G network are delivered by way of a set of interconnected Network Functions (NFs), each with authorization to access each other's services.
-
-Note :- For More information 
-https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=12&cad=rja&uact=8&ved=2ahUKEwi6_bfKgoHnAhU1yDgGHWMiAG0QwqsBMAt6BAgLEAQ&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLotQ1RwXdoE&usg=AOvVaw1X4UXh8X-zLu4k9jf_S_N8 
- 
- 
+Service-Based Architecture (SBA), whereby the control plane functionality and common data repositories of a 5G network are delivered by way of a set of interconnected Network Functions (NFs), each with authorization to access each other's services
+  
+  <image src="/home/krik/Downloads/SOA.png">Picture</image>
  How to deploy websites
  
 Purchase a Domain Name 
