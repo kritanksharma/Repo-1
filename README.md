@@ -1,4 +1,4 @@
-Learning....
+<strong>Learning....</strong>
 
 SOFTWARE ARCHITECTURE
 
@@ -19,7 +19,7 @@ Service-oriented architecture (SOA) is a style of software design where services
   
 Service-Based Architecture (SBA), whereby the control plane functionality and common data repositories of a 5G network are delivered by way of a set of interconnected Network Functions (NFs), each with authorization to access each other's services
   
-  <image src="/home/krik/Downloads/SOA.png">Picture</image>
+  <image url="SOA.png">Picture</image>
  How to deploy websites
  
 Purchase a Domain Name 
