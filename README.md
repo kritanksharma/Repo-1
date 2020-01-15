@@ -65,6 +65,7 @@ Developer -Ken Thompson, Dennis Ritchie and others.
 Written in :C, Assembly language 
 
 LINUX
+
 Linux is a family of open source Unix-like operating systems based on the Linux kernel, an operating system kernel first released on 1991, by Linus Torvalds.Linux is typically packaged in a Linux distribution. Linux was originally developed for personal computers based on the Intel x86 architecture, but has since been ported to more platforms than any other operating system.Linux is a freely distributable version of Unix.
 
 Developer- Linus Torvalds
@@ -76,9 +77,9 @@ Note:-<b> Git</b> was created by <strong> Linus Torvalds</strong> in 2005 for de
 Its goals include speed, data integrity, and support for distributed, non-linear workflows.
 The purpose of <b>Git</b>is to manage a project, or a set of files, as they change over time. Git stores this information in a data structure called a repository.
 
-Why use Linux ?
+<strong>Why use Linux ?</strong>
 
-Linux makes very efficient use of the system's resources. ... This allows them to install Linux even on old hardware, thus helping in optimal use of all the hardware resources. Linux runs on a range of hardware
+Linux makes very efficient use of the system's resources.This allows them to install Linux even on old hardware, thus helping in optimal use of all the hardware resources. Linux runs on a range of hardware
 
 <strong>High stability:</strong> The Linux system is very stable and is not prone to crashes. The Linux OS runs exactly as fast as it did when first installed, even after several years.
 
@@ -93,6 +94,7 @@ Windows OS, computer operating system (OS) developed by Microsoft Corporation to
 Microsoft Windows. Operating system designed and produced by Microsoft Corporation. Similar to other operating systems, Windows makes a computer system user-friendly by providing a graphical display and organizing information so that it can be easily accessed.
 
 KERNEL
+
 Kernel is a computer program that is the core of a computer's operating system, with complete control over everything in the system. The kernel give interactions between hardware and software components. 
 
 
