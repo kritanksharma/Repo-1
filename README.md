@@ -51,7 +51,7 @@ DevOps -(Development + Operations). is how modren developers are builing great p
 
 <strong>Operating System (OS)</strong>
 
-An operating system is the primary software that manages all the hardware and other software on a computer. The operating system, also known as an Operating System interfaces with the computer’s hardware and provides services that applications can use.
+<p>An operating system is the primary software that manages all the hardware and other software on a computer. The operating system, also known as an Operating System interfaces with the computer’s hardware and provides services that applications can use.</p></t>
 An operating system is the core set of software on a device that keeps everything together. Operating systems communicate with the device’s hardware. They handle everything from your keyboard and mice to the Wi-Fi radio, storage devices, and display. In other words, an operating system handles input and output devices. Operating systems use device drivers written by hardware creators to communicate with their devices.
 UNIX </t>
 LINUX </t>
@@ -79,13 +79,17 @@ The purpose of <b>Git</b>is to manage a project, or a set of files, as they chan
 Why use Linux ?
 
 Linux makes very efficient use of the system's resources. ... This allows them to install Linux even on old hardware, thus helping in optimal use of all the hardware resources. Linux runs on a range of hardware
+
 <strong>High stability:</strong> The Linux system is very stable and is not prone to crashes. The Linux OS runs exactly as fast as it did when first installed, even after several years.
+
 <strong>Free:</strong> Linux is completely free and users do not need to pay for anything. All the basic software required by a typical user and even an advanced user are available.
-<strong>Open source:<strong> The most important aspect of Linux is that its source code is available as it falls under the Free and Open Source Software.The developer community benefits from this as its members have the freedom to view and modify the source code.
+
+<strong>Open source:</strong> The most important aspect of Linux is that its source code is available as it falls under the Free and Open Source Software.The developer community benefits from this as its members have the freedom to view and modify the source code.
 
 WINDOWS 
 
 Windows OS, computer operating system (OS) developed by Microsoft Corporation to run personal computers (PCs). Featuring the first graphical user interface (GUI) for IBM-compatible PCs, the Windows OS soon dominated the PC market.
+
 Microsoft Windows. Operating system designed and produced by Microsoft Corporation. Similar to other operating systems, Windows makes a computer system user-friendly by providing a graphical display and organizing information so that it can be easily accessed.
 
 KERNEL
