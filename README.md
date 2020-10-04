@@ -68,8 +68,7 @@ LINUX
 
 Linux is a family of open source Unix-like operating systems based on the Linux kernel, an operating system kernel first released on 1991, by Linus Torvalds.Linux is typically packaged in a Linux distribution. Linux was originally developed for personal computers based on the Intel x86 architecture, but has since been ported to more platforms than any other operating system.Linux is a freely distributable version of Unix.
 
-Developer- Linus Torvalds
-Written in :C, Assembly language ,
+Developer- Linus Torvalds.
 
 GNU-(GNU stands for GNU's Not UNIX. It is a UNIX like computer operating system, but unlike UNIX, it is free software and contains no UNIX code. It is pronounced as guh-noo. Sometimes, it is also written as GNU General Public License.)
 
